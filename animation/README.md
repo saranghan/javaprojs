@@ -9,8 +9,11 @@ In OnePageFourHalf.java the data encapsulation and decapsualtion is slightly wro
 How to compile and run the program: 
 
 cd into directory 
-command line
+
+
 cd animation/src
+
 javac ./animation/*.java
+
 java animation/IntroPage
 
